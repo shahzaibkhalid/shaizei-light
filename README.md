@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shahzaibkhalid.github.io/shaizei-light">
-    <img alt="Shaizei Light" src="./logo.svg" width="400"/>
+    <img alt="Shaizei Light" src="https://raw.githubusercontent.com/shahzaibkhalid/shaizei-light/master/icon.png" width="400"/>
   </a>
   <h1 align="center">Shaizei Light</h1>
 </p>
@@ -11,15 +11,15 @@ Shaizei Light is a light Visual Studio Code Theme, heavily inspired by minimalis
 
 ### Design
 This is how the design looks like:
-![Shaizei-Light-VS-Code-Theme](./screenshots/shaizei-light-1.png)
+![Shaizei-Light-VS-Code-Theme](https://raw.githubusercontent.com/shahzaibkhalid/shaizei-light/master/screenshots/shaizei-light-1.png)
 
-![Shaizei-Light-VS-Code-Theme](./screenshots/shaizei-light-2.png)
+![Shaizei-Light-VS-Code-Theme](https://raw.githubusercontent.com/shahzaibkhalid/shaizei-light/master/screenshots/shaizei-light-2.png)
 
-![Shaizei-Light-VS-Code-Theme](./screenshots/shaizei-light-3.png)
+![Shaizei-Light-VS-Code-Theme](https://raw.githubusercontent.com/shahzaibkhalid/shaizei-light/master/screenshots/shaizei-light-3.png)
 
-![Shaizei-Light-VS-Code-Theme](./screenshots/shaizei-light-4.png)
+![Shaizei-Light-VS-Code-Theme](https://raw.githubusercontent.com/shahzaibkhalid/shaizei-light/master/screenshots/shaizei-light-4.png)
 
-![Shaizei-Light-VS-Code-Theme](./screenshots/shaizei-light-5.png)
+![Shaizei-Light-VS-Code-Theme](https://raw.githubusercontent.com/shahzaibkhalid/shaizei-light/master/screenshots/shaizei-light-5.png)
 
 ### License
 Shaizei Light is licensed under the [MIT License](https://github.com/shahzaibkhalid/shaizei-light/blob/master/LICENSE.txt).
