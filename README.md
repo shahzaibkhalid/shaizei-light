@@ -2,6 +2,7 @@
   <a href="https://shahzaibkhalid.github.io/shaizei-light">
     <img alt="Shaizei Light" src="./logo.svg" width="400"/>
   </a>
+  <h1>Shaizei Light</h1>
 </p>
 Shaizei Light is a light Visual Studio Code Theme, heavily inspired by minimalsim, sleekness and rosy-brown color.
 
