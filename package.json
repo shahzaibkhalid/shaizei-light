@@ -3,6 +3,7 @@
   "displayName": "Shaizei Light",
   "version": "1.0.0",
   "publisher": "shahzaibkhalid",
+  "description": "A light Visual Studio Code Theme by Shahzaib Khalid, heavily inspired by minimalsim, sleekness and rosy-brown color.",
   "license": "MIT",
   "maintainers": ["Shahzaib Khalid <shahzaibkhalidmalik@outlook.com>"],
   "engines": {
