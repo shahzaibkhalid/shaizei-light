@@ -1,32 +1,34 @@
 {
-  "name": "shaizei-light",
-  "displayName": "Shaizei Light",
-  "version": "1.0.0",
-  "publisher": "shahzaibkhalid",
-  "description": "A light Visual Studio Code Theme by Shahzaib Khalid, heavily inspired by minimalism, sleekness and rosy-brown color.",
-  "license": "MIT",
-  "maintainers": ["Shahzaib Khalid <shahzaibkhalidmalik@outlook.com>"],
-  "engines": {
-      "vscode": "^1.0.0"
-  },
-  "categories": [
-      "Themes"
-  ],
+    "name": "shaizei-light",
+    "displayName": "Shaizei Light",
+    "version": "1.1.0",
+    "publisher": "shahzaibkhalid",
+    "description": "A light Visual Studio Code Theme by Shahzaib Khalid, heavily inspired by minimalism, sleekness and rosy-brown color.",
+    "license": "MIT",
+    "maintainers": [
+        "Shahzaib Khalid <shahzaibkhalidmalik@outlook.com>"
+    ],
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
     "contributes": {
-      "themes": [
-        {
-            "label": "Shaizei Light",
-            "uiTheme": "vs",
-            "path": "./theme/shaizei-light.json"
-        }
-    ]
-  },
-  "icon": "icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shahzaibkhalid/shaizei-light.git"
-  },
-  "bugs": {
-    "url": "https://github.com/shahzaibkhalid/shaizei-light/issues"
-   }
+        "themes": [
+            {
+                "label": "Shaizei Light",
+                "uiTheme": "vs",
+                "path": "./theme/shaizei-light.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shahzaibkhalid/shaizei-light.git"
+    },
+    "bugs": {
+        "url": "https://github.com/shahzaibkhalid/shaizei-light/issues"
+    }
 }
