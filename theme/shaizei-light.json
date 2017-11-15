@@ -6,7 +6,7 @@
     "focusBorder": "#F7F7F7",
 		"foreground": "#c99999",
 		"selection.background": "#896868",
-    "errorForeground": "#FF0000",
+    "errorForeground": "#f17878",
     "widget.shadow": "#d3d3d3",
 
 		"button.background": "#c99999",
@@ -19,8 +19,8 @@
 		"input.background": "#fdc0c0",
 		"input.foreground": "#ffffff",
 		"input.placeholderForeground": "#c99999",
-		"inputValidation.errorBackground": "#FF0000",
-		"inputValidation.errorBorder": "#FF0000",
+		"inputValidation.errorBackground": "#f17878",
+		"inputValidation.errorBorder": "#f17878",
 		"inputValidation.warningBackground": "#FFFF99",
 		"inputValidation.warningBorder": "#FFFF00",
 
@@ -140,6 +140,12 @@
     "editorSuggestWidget.selectedBackground": "#c99999",
     "editorHoverWidget.background": "#F0F0F0",
     "editorHoverWidget.border": "#F0F0F0",
+
+    "titleBar.activeBackground": "#b88b8b",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.border": "#b88b8b",
+    "titleBar.inactiveBackground": "#b88b8b",
+    "titleBar.inactiveForeground": "#ffffff",
 
     "terminal.foreground": "#896868",
     "terminal.ansiWhite": "#8e8e8e",
