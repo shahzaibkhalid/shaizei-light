@@ -96,7 +96,7 @@
     "statusBar.background": "#b88b8b",
     "statusBar.foreground": "#ffffff",
     "statusBar.noFolderForeground": "#ffffff",
-    "statusBar.noFolderBackground": "#ecafaf",
+    "statusBar.noFolderBackground": "#b88b8b",
     
     "notification.background": "#fdc0c0",
     "notification.foreground": "#ffffff",
