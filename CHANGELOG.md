@@ -1,3 +1,7 @@
+# 1.3.0
+
+- Update of status bar color to unify same color for project folder opened or not
+
 # 1.2.0
 
 - Update title bar colors for macOS
